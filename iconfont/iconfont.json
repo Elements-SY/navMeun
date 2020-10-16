@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "385311",
+      "name": "iconfont-mac",
+      "font_class": "iconfontcomputer",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "385724",
+      "name": "iconfont-cog",
+      "font_class": "iconfontcog",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "508247",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "655413",
+      "name": "iconfont-1",
+      "font_class": "iconfont1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "736728",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "859725",
+      "name": "iconfont-gift",
+      "font_class": "iconfontgift-copy-copy-copy",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "987113",
+      "name": "iconfont-bi",
+      "font_class": "iconfontbi",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1163073",
+      "name": "iconfont-20",
+      "font_class": "iconfont20",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6253894",
+      "name": "iconfont icon-dituxi",
+      "font_class": "iconfonticon-dituxi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "6253899",
+      "name": "iconfont icon-shuju",
+      "font_class": "iconfonticon-shuju",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "7454283",
+      "name": "home",
+      "font_class": "home1",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "7573246",
+      "name": "home",
+      "font_class": "home2",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    }
+  ]
+}
